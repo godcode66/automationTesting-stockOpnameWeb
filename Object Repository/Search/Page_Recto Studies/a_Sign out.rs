@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Sign out</name>
+   <tag></tag>
+   <elementGuidId>483d4020-64d8-4dc7-bfb9-31e3322ee290</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='navbarNavDropdown']/ul/li[2]/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>f750ed2d-1f5b-477c-a765-24a9a31f750c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>nav-link</value>
+      <webElementGuid>a090dc3b-48d9-44f1-98d5-578094c424cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>/user-logout</value>
+      <webElementGuid>d39a2978-85d2-45a1-ab00-6370106a0e11</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Sign out    </value>
+      <webElementGuid>454695cd-641b-455f-8644-899236400ffd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;navbarNavDropdown&quot;)/ul[@class=&quot;navbar-nav mr-auto&quot;]/li[@class=&quot;nav-item&quot;]/a[@class=&quot;nav-link&quot;]</value>
+      <webElementGuid>2dcec7d4-153c-4aeb-9b82-b50f1965de69</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='navbarNavDropdown']/ul/li[2]/a</value>
+      <webElementGuid>a1ad85e7-e5ae-455e-af6e-cb739d27f4c3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Sign out')]</value>
+      <webElementGuid>1f84e9bb-17f0-44f8-b02d-2fe7d842ab5d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Book List'])[1]/preceding::a[2]</value>
+      <webElementGuid>87be4bb0-b5ec-4109-925b-f553b4f06584</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, '/user-logout')]</value>
+      <webElementGuid>4ef544b4-4e45-4dbe-9102-32ff7120961c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a</value>
+      <webElementGuid>23d1d345-4ef3-4e4a-a0ba-2a3ebed8c797</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = '/user-logout' and (text() = 'Sign out    ' or . = 'Sign out    ')]</value>
+      <webElementGuid>6d10e132-8202-47ee-b209-32d1db06ea7d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h5_Welcome to the Dashboard page manager2</name>
+   <tag></tag>
+   <elementGuidId>6ecb0e2d-b297-418a-8ab1-0134086f88be</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/preceding::h5[1]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h5.text-center</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h5</value>
+      <webElementGuid>924f08f8-8e64-4345-ab26-251be3de9da4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>text-center</value>
+      <webElementGuid>e18542f2-6470-4d27-b021-a00f5ebf5aad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Welcome to the Dashboard page! manager2!</value>
+      <webElementGuid>153084a6-b88f-4e51-b73e-669081cc676b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[1]/body[1]/div[@class=&quot;container&quot;]/h5[@class=&quot;text-center&quot;]</value>
+      <webElementGuid>1c124f82-b065-42a8-9a90-8611c346557c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ID'])[1]/preceding::h5[1]</value>
+      <webElementGuid>c11d3ea8-852d-47ed-aafb-f624fc6f0a51</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Welcome to the Dashboard page! manager2!']/parent::*</value>
+      <webElementGuid>556c4215-e71e-4290-8ff5-d8f990b73e45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h5</value>
+      <webElementGuid>152d6771-1fa0-4a21-8a39-67bc4df91b10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h5[(text() = 'Welcome to the Dashboard page! manager2!' or . = 'Welcome to the Dashboard page! manager2!')]</value>
+      <webElementGuid>cfe0ea03-e764-4f75-a715-dea7948e3d16</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
